@@ -10,7 +10,7 @@ A small script demonstrating the A-Star algorithm for finding the shortest path.
 2. [Installation and Setup Guide](docs/en/installation-and-setup-guide.md)
 3. [User Guide](docs/en/user-manual.md)
 4. [Technical Details](docs/en/technical-details.md)
-5. [Examples and Use Cases](docs/en/examples-use-cases.md)
+5. [Examples and Use Cases](docs/en/examples-and-use-cases.md)
 6. [License](LICENSE)
 
 ## Installation
@@ -18,7 +18,7 @@ A small script demonstrating the A-Star algorithm for finding the shortest path.
 _Python 3.12 is required for proper installation_
 
 ```shell
-git clone https://github.com/tomasrock18/rob-in.git
+git clone https://github.com/surixes/ROB-IN.git
 cd rob-in
 pip install -r requirements.txt
 ```

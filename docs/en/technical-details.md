@@ -308,10 +308,13 @@ Visualization of the route and the map is performed using the `matplotlib` libra
 - If no path is found, a message indicating its inaccessibility is displayed.
 
 **Usage Example**:
+
 ![success_path](../assets/success_path.png)
+
 `success_path` - Example of successful pathfinding and optimization visualization.
 
 ![path_error](../assets/Handling_a_missing_path_error_1.png)
+
 `path_error` - Example of visualization when no path is found due to obstacles on the map.
 
 ### Libraries Used

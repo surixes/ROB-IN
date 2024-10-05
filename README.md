@@ -18,7 +18,7 @@
 _Для корректной установки требуется python3.12_
 
 ```shell
-git clone https://github.com/tomasrock18/rob-in.git
+git clone https://github.com/surixes/ROB-IN.git
 cd rob-in
 pip install -r requirements.txt
 ```
