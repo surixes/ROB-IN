@@ -82,5 +82,3 @@ opt_path = optimize_path(path)
 
 - Электронная почта: support@example.com
 - Telegram: @example
-
-[К началу](README.md)
