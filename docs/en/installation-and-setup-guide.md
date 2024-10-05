@@ -23,7 +23,7 @@
 2. **Navigate to the project directory**:
 
    ```bash
-   cd rob-in
+   cd rob-in-main
    ```
 
 3. **Create a virtual environment (optional)**:

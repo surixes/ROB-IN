@@ -19,7 +19,7 @@ _Для корректной установки требуется python3.12_
 
 ```shell
 git clone https://github.com/surixes/ROB-IN.git
-cd rob-in
+cd rob-in-main
 pip install -r requirements.txt
 ```
 
@@ -75,3 +75,12 @@ path = find_path(map, (10, 10), (0, 0))
 ```python3
 opt_path = optimize_path(path)
 ```
+
+## Поддержка
+
+Если у вас есть вопросы, проблемы или вы нашли ошибку в документации, вы можете обратиться по следующим контактам:
+
+- Электронная почта: support@example.com
+- Telegram: @example
+
+[К началу](README.md)

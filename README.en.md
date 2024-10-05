@@ -19,7 +19,7 @@ _Python 3.12 is required for proper installation_
 
 ```shell
 git clone https://github.com/surixes/ROB-IN.git
-cd rob-in
+cd rob-in-main
 pip install -r requirements.txt
 ```
 
@@ -71,3 +71,12 @@ path = find_path(map, (10, 10))
 # And now also specify the end point
 path = find_path(map, (10, 10), (0, 0))
 ```
+
+## Support
+
+If you have questions, concerns, or find an error in the documentation, you can contact the following contacts::
+
+- Email: support@example.com
+- Telegram: @example
+
+[Back to top](../../README.en.md)
